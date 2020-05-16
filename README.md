@@ -1,5 +1,7 @@
 # 输出结果为
 
+> Mac Catalina 环境下输出
+
 ```bash
 CHAR_BIT 8
 MB_LEN_MAX 6
